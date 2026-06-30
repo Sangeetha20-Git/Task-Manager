@@ -1,6 +1,6 @@
 import { useState } from "react";
-import AuthPage from "./pages/AuthPage";
-import Dashboard from "./pages/Dashboard";
+import AuthPage from "./pages/AuthPage.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
 
 function App() {
   const [loggedIn, setLoggedIn] = useState(
