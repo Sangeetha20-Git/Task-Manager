@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* 🔥 FORCE CLEAN CLICK BEHAVIOR (DEBUG FIX) */
+#root {
+  position: relative;
+  z-index: 0;
+}
+
+body {
+  pointer-events: auto;
+}

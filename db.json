@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Build Task Manager",
+      "description": "Finish CRUD operations",
+      "priority": "Medium",
+      "dueDate": "2026-07-03",
+      "completed": false,
+      "createdAt": "2026-06-27T15:00:00.000Z"
+    },
+    {
+      "title": "Team connect",
+      "description": "about new projects",
+      "priority": "Medium",
+      "dueDate": "2026-06-30",
+      "completed": false,
+      "createdAt": "2026-06-30T07:09:16.662Z",
+      "id": "MzgHzJIqbn4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
